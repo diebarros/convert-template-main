@@ -11,13 +11,13 @@ Módulo prático de JavaScript do curso Full stack, promovido pela Rocketseat pa
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/diebarros/convert-template-main/blob/master/Thumbnail.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Zinguen" src="https://github.com/diebarros/refund-template-main/blob/master/Thumbnail.png">
+  <img alt="Zinguen" src="https://github.com/diebarros/convert-template-main/blob/master/Thumbnail.png">
 </p>
 
 ## 🚀 Tecnologias
@@ -41,3 +41,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)#
+
